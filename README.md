@@ -4,11 +4,7 @@
 
 ### [1월 넷째주, 2주차] : Git, 웹 기초
 
-<<<<<<< HEAD
-25.01.27 GIT기초: 개념, 동작 원리, branch ([2025-01-27](https://github.com/chulsu0012/zoe-til/blob/main/Jan/2025-01-27.md))
-=======
 ([25.01.27](https://github.com/chulsu0012/zoe-til/blob/main/Jan/2025-01-27.md)) GIT기초: 개념, 동작 원리, branch
->>>>>>> 5bde6f2 (modify: readme.md - 25.01.27 TIL 참조 링크 추가)
 
 <!-- 25.01.28 GIT응용: (상세 내역 링크) -->
 
