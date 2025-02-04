@@ -24,4 +24,4 @@ GIT활용(이슈/브랜치 관리, organization)
 시스템 아키텍처 설계
 
 [[25.02.04]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-04.md)
-시스템 아키텍처 설계
+프로세스, 스레드, 동시성 문제와 동기화 처리
