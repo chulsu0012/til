@@ -22,3 +22,6 @@ GIT활용(이슈/브랜치 관리, organization)
 
 [[25.02.03]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-03.md)
 시스템 아키텍처 설계
+
+[[25.02.04]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-04.md)
+시스템 아키텍처 설계
