@@ -25,3 +25,6 @@ GIT활용(이슈/브랜치 관리, organization)
 
 [[25.02.04]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-04.md)
 프로세스, 스레드, 동시성 문제와 동기화 처리
+
+[[25.02.05]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-05.md)
+동기와 비동기, 블록킹과 논블록킹
