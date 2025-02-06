@@ -28,3 +28,6 @@ GIT활용(이슈/브랜치 관리, organization)
 
 [[25.02.05]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-05.md)
 동기와 비동기, 블록킹과 논블록킹
+
+[[25.02.06]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-06.md)
+동시성과 병렬성, 스케줄링과 컨텍스트 스위칭
