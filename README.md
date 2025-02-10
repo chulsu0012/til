@@ -18,7 +18,7 @@ GIT활용(이슈/브랜치 관리, organization)
 
 <br/>
 
-### [2월 첫째주, 2주차] : Java 기본
+### [2월 첫째주, 2주차] : Java 기본2
 
 [[25.02.03]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-03.md)
 시스템 아키텍처 설계
@@ -34,3 +34,20 @@ GIT활용(이슈/브랜치 관리, organization)
 
 [[25.02.07]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-07.md)
 딥다이브
+
+<br/>
+
+### [2월 둘째주, 3주차] : 웹의 구조 및 이해 
+[[25.02.10]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-10.md)
+공유자원, 임계영역, 동기화, lock
+
+<!-- [[25.02.11]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-11.md) -->
+
+
+<!-- [[25.02.12]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-12.md) -->
+
+
+<!-- [[25.02.13]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-13.md) -->
+
+
+<!-- [[25.02.14]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-14.md) -->
