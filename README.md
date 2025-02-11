@@ -42,7 +42,7 @@ GIT활용(이슈/브랜치 관리, organization)
 공유자원, 임계영역, 동기화, lock
 
 [[25.02.11]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-11.md)
-크램플린 IDE
+컨테이너 배포 기술
 
 
 <!-- [[25.02.12]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-12.md) -->
