@@ -41,7 +41,8 @@ GIT활용(이슈/브랜치 관리, organization)
 [[25.02.10]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-10.md)
 공유자원, 임계영역, 동기화, lock
 
-<!-- [[25.02.11]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-11.md) -->
+[[25.02.11]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-11.md)
+크램플린 IDE
 
 
 <!-- [[25.02.12]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-12.md) -->
