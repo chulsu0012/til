@@ -45,7 +45,8 @@ GIT활용(이슈/브랜치 관리, organization)
 컨테이너 배포 기술
 
 
-<!-- [[25.02.12]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-12.md) -->
+[[25.02.12]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-12.md)
+Internet, 웹 구조, TCP/UDP, HTTPS, Cache, API
 
 
 <!-- [[25.02.13]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-13.md) -->
