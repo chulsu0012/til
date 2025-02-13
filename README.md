@@ -49,7 +49,8 @@ GIT활용(이슈/브랜치 관리, organization)
 Internet, 웹 구조, TCP/UDP, HTTPS, Cache, API
 
 
-<!-- [[25.02.13]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-13.md) -->
+[[25.02.13]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-13.md)
+HTTP 자격증명 헤더(JWT, OAuth)
 
 
 <!-- [[25.02.14]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-14.md) -->
