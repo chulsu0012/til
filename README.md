@@ -58,8 +58,10 @@ HTTP 자격증명 헤더(JWT, OAuth)
 
 <br/>
 
-<!-- ### [2월 셋째주, 4주차] : JavaScript -->
-<!-- [[25.02.17]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-17.md) -->
+### [2월 셋째주, 4주차] : JavaScript
+[[25.02.17]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-17.md)
+Cookie, Storage, Session
+
 
 <!-- [[25.02.18]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-18.md) -->
 
