@@ -63,7 +63,8 @@ HTTP 자격증명 헤더(JWT, OAuth)
 Cookie, Storage, Session
 
 
-<!-- [[25.02.18]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-18.md) -->
+[[25.02.18]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-18.md)
+WebSocket
 
 <!-- [[25.02.19]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-19.md) -->
 
