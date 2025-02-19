@@ -66,7 +66,8 @@ Cookie, Storage, Session
 [[25.02.18]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-18.md)
 WebSocket
 
-<!-- [[25.02.19]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-19.md) -->
+[[25.02.19]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-19.md)
+객체, namespace, 프로그래밍 패러다임, 함수형 패러다임, 모듈 시스템, 비동기 처리(Callback, Promise)
 
 <!-- [[25.02.20]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-20.md) -->
 
