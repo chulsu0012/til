@@ -72,4 +72,5 @@ WebSocket
 [[25.02.20]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-20.md)
 비동기 처리(Async/Await), 자바스크립트 엔진
 
-<!-- [[25.02.21]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-21.md) -->
+[[25.02.21]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-21.md)
+딥다이브
