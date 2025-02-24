@@ -74,3 +74,17 @@ WebSocket
 
 [[25.02.21]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-21.md)
 딥다이브
+
+<br/>
+
+### [2월 넷째주, 5주차] : DB 기본
+[[25.02.24]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md)
+실행 컨텍스트, 스코프, this, 클로저, 프로토타입
+
+<!-- [[25.02.24]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
+
+<!-- [[25.02.24]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
+
+<!-- [[25.02.24]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
+
+<!-- [[25.02.24]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
