@@ -86,11 +86,5 @@ WebSocket
 <br/>
 
 ### [3월 첫째주, 6주차] : DB 기본
-[[25.03.04]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-03-04.md)
+[[25.03.04]](https://github.com/chulsu0012/zoe-til/blob/main/Mar/2025-03-04.md)
 DB, 정규화, SQL, JOIN, VIEW, UNION, ERD
-
-<!-- [[25.03.05]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
-
-<!-- [[25.03.06]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
-
-<!-- [[25.03.07]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
