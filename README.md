@@ -17,6 +17,7 @@ GIT활용(이슈/브랜치 관리, organization)
 1월 31일 개념정리: 웹 기초(인증・인가, API, 배포, FE, Web)
 
 <br/>
+<br/>
 
 ### [2월 첫째주, 2주차] : Java 기본2
 
@@ -81,10 +82,15 @@ WebSocket
 [[25.02.24]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md)
 실행 컨텍스트, 스코프, this, 클로저, 프로토타입
 
-<!-- [[25.02.24]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
+<br/>
+<br/>
 
-<!-- [[25.02.24]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
+### [3월 첫째주, 6주차] : DB 기본
+[[25.03.04]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-03-04.md)
+DB, 정규화, SQL, JOIN, VIEW, UNION, ERD
 
-<!-- [[25.02.24]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
+<!-- [[25.03.05]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
 
-<!-- [[25.02.24]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
+<!-- [[25.03.06]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
+
+<!-- [[25.03.07]](https://github.com/chulsu0012/zoe-til/blob/main/Feb/2025-02-24.md) -->
