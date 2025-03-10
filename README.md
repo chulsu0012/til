@@ -94,3 +94,7 @@ Index, Transaction, NoSQL, Spring 개요
 
 [[25.03.06]](https://github.com/chulsu0012/zoe-til/blob/main/Mar/2025-03-06.md)
 Spring 개요, Spring MVC
+
+### [3월 둘째주, 7주차] : 스프링 부트 2
+[[25.03.10]](https://github.com/chulsu0012/zoe-til/blob/main/Mar/2025-03-10.md)
+Bean, IoC, DI
