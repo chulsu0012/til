@@ -104,3 +104,10 @@ Bean, IoC, DI
 
 [[25.03.11]](https://github.com/chulsu0012/zoe-til/blob/main/Mar/2025-03-11.md)
 AOP, ORM
+
+<br/>
+<br/>
+
+### [4월 첫째주, 10주차] : 서비스 기획
+[[25.04.01]](https://github.com/chulsu0012/zoe-til/blob/main/April/2025-04-01.md)
+서비스 기획 1
