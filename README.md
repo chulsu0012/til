@@ -111,3 +111,6 @@ AOP, ORM
 ### [4월 첫째주, 10주차] : 서비스 기획
 [[25.04.01]](https://github.com/chulsu0012/zoe-til/blob/main/April/2025-04-01.md)
 서비스 기획 1
+
+[[25.04.02]](https://github.com/chulsu0012/zoe-til/blob/main/April/2025-04-02.md)
+서비스 기획 2
